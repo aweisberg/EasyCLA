@@ -2,7 +2,7 @@
 Soft Launch Repo to sign CLAs, whitelist your employees, and confirm affiliations before their enforced across the organization.
 
 1. Open a PR against this repo
-1. Click on the link to sign a CLA or the Details link next to the EasyCLA Check
+1. Click on the link to sign a CLA or tlkhe Details link next to the EasyCLA Check
 1. Select the appropriate option (Corporate or Individual)
 1. Consult the resources below for additional instructions and step-by-step guides.
 
